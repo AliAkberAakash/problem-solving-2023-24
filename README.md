@@ -13,5 +13,5 @@
 
 ### Array
   - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) - [Solution](url)
-  - [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [Solution](url)
+  - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/array/search_insert_position.dart)
   - [ ] [Plus One](https://leetcode.com/problems/plus-one/)https://leetcode.com/problems/plus-one/) - [Solution](url)
