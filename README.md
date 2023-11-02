@@ -17,4 +17,4 @@
   - [ ] [Plus One](https://leetcode.com/problems/plus-one/)https://leetcode.com/problems/plus-one/) - [Solution](url)
 
 ### Stack
-  - [ ] [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) - [Solution](url)
+  - [ ] [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/stack/valid-parenthesis.dart)
