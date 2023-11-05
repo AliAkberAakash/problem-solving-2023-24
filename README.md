@@ -1,9 +1,7 @@
-# List of solved problems
-
 // template
-## Category 1 //hint: Easy, Medium, Hard
-### Topic 1 //hint: Array
-  - [ ] [Problem1](url1) - [Solution](url)
+## Category  //hint: Easy, Medium, Hard
+### Topic  //hint: Array
+  - [ ] [Problem1](url) - [Solution](url)
 
 # List of Problems
 
@@ -20,5 +18,8 @@
 ### Sliding Window
   - [x] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/sliding_window/best-time-to-buy-and-sell-stock.dart)
 
-### Topic 1
+### Linked List
   - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/linked_list/reverse-linked-list.cpp)
+
+### Two Pointers
+  - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/two_pointers/valid-palindrome.cpp)
