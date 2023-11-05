@@ -3,9 +3,7 @@
 // template
 ## Category 1 //hint: Easy, Medium, Hard
 ### Topic 1 //hint: Array
-  - [ ] (Problem1)[url1] - [Solution](url)
-  - [ ] (Problem2)[url2] - [Solution](url)
-  - [ ] (Problem3)[url3] - [Solution](url)
+  - [ ] [Problem1](url1) - [Solution](url)
 
 # List of Problems
 
@@ -23,4 +21,4 @@
   - [x] [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/sliding_window/best-time-to-buy-and-sell-stock.dart)
 
 ### Topic 1
-  - [x] (Reverse Linked List)[https://leetcode.com/problems/reverse-linked-list/] - [Solution](url)
+  - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Solution](url)
