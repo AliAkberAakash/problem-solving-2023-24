@@ -23,3 +23,6 @@
 
 ### Two Pointers
   - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/two_pointers/valid-palindrome.cpp)
+
+### Backtracking
+  - [x] [Subsets](https://leetcode.com/problems/subsets/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/backtracking/subsets.cpp)
