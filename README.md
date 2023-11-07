@@ -26,3 +26,6 @@
 
 ### Backtracking
   - [x] [Subsets](https://leetcode.com/problems/subsets/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/backtracking/subsets.cpp)
+
+### 1-D DP
+  - [x] [Climbing Stairt](https://leetcode.com/problems/climbing-stairs/description/) - [Solution](https://github.com/AliAkberAakash/problem-solving-2023-24/blob/main/easy/1_d_dp/climbing_stairs.cpp)
